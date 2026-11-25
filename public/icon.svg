@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1B5E48" />
+  <circle cx="256" cy="264" r="142" fill="none" stroke="#F7F8F6" stroke-width="6" stroke-dasharray="6 8" opacity="0.45" />
+  <!-- Imame finial at top -->
+  <path d="M244 102 L268 102 L273 128 C273 136 239 136 239 128 Z" fill="#D4AF6A" />
+  <circle cx="256" cy="88" r="8" fill="#D4AF6A" />
+  <!-- 12 spaced beads around loop -->
+  <circle cx="327" cy="141" r="18" fill="#F7F8F6" />
+  <circle cx="379" cy="193" r="18" fill="#F7F8F6" />
+  <circle cx="398" cy="264" r="20" fill="#D4AF6A" />
+  <circle cx="379" cy="335" r="18" fill="#F7F8F6" />
+  <circle cx="327" cy="387" r="18" fill="#F7F8F6" />
+  <circle cx="256" cy="406" r="20" fill="#D4AF6A" />
+  <circle cx="185" cy="387" r="18" fill="#F7F8F6" />
+  <circle cx="133" cy="335" r="18" fill="#F7F8F6" />
+  <circle cx="114" cy="264" r="20" fill="#D4AF6A" />
+  <circle cx="133" cy="193" r="18" fill="#F7F8F6" />
+  <circle cx="185" cy="141" r="18" fill="#F7F8F6" />
+  <!-- Center subtle dot -->
+  <circle cx="256" cy="264" r="32" fill="#F7F8F6" opacity="0.16" />
+  <circle cx="256" cy="264" r="12" fill="#D4AF6A" />
+</svg>

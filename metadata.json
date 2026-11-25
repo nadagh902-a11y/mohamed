@@ -1,0 +1,8 @@
+{
+  "name": "Tesbih — Compteur de Dhikr",
+  "description": "Application tactile et épurée pour compter vos tesbih, suivre le dhikr après la prière et consulter votre progression quotidienne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
